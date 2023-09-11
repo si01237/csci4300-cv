@@ -117,7 +117,7 @@ hr {
             box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
             background-color: #64CCC5;
             color: #053B50;
-            width: 450px;
+            width: 400px;
             margin: 10px;
         }
         .card h3, .about ul, .about dl, .about dl{
@@ -145,7 +145,7 @@ hr {
             }
 
         .card .card-image {
-            width: 450px;
+            width: 400px;
             height: 300px;
         }
         
@@ -183,8 +183,3 @@ hr {
         border-style: none;
         border-radius: 10%;
     }
-
-
-
-
-
